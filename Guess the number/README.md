@@ -10,7 +10,7 @@ This is a simple Python game where the user guesses a number within a specified 
 - 🏆 Output includes the number of attempts taken to guess correctly.
 
 ## 🖼️ Output
-![Output Image](output_image.png)
+![Output Image](https://github.com/mohan-prasath7/Python-Projects/blob/87e4cc0611f63dfff4a4509d546d80e58d2de36e/Guess%20the%20number/assets/Output.jpeg)
 
 ## 🚀 How to Use
 1. **Input Range**: Enter the range for the random number when prompted.
